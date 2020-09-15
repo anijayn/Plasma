@@ -1,0 +1,23 @@
+{
+  "name": "plasma",
+  "version": "1.0.0",
+  "description": "My first page",
+  "main": "index.html",
+  "dependencies": {
+    "bootstrap-social": "^5.1.1",
+    "bootstrap": "^4.5.2",
+    "font-awesome": "^4.7.0",
+    "ionic-native": "^4.0.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.12.9"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "pl"
+  },
+  "keywords": [
+    "plasma"
+  ],
+  "author": "ANI",
+  "license": "ISC"
+}
